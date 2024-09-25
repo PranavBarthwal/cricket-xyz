@@ -122,4 +122,3 @@ function Fullblog() {
   );
 }
 
-export default Fullblog;

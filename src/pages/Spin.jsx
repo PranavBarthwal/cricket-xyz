@@ -306,5 +306,3 @@ function Spin() {
     </div>
   );
 }
-
-export default Spin;

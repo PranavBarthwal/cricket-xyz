@@ -87,5 +87,3 @@ const NewsSection = () => {
     </>
   );
 };
-
-export default NewsSection;

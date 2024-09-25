@@ -121,4 +121,4 @@ function Fullblog() {
     </div>
   );
 }
-
+export default Fullblog;

@@ -123,5 +123,3 @@ return (
   </div>
 );
 };
-
-export default Tournament;

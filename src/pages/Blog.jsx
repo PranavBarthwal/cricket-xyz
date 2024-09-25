@@ -1,3 +1,4 @@
+import React from "react";
 import blogConstants from "./blogConstants.jsx";
 
 import Fullblog from "./Fullblog.jsx";
@@ -103,5 +104,5 @@ const Blog = () => {
       </div>
     </>
   );
-};
+}
 

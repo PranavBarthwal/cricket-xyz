@@ -169,5 +169,3 @@ navigate("./login")
 
   );
 };
-
-export default Home;
